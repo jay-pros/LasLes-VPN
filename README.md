@@ -64,7 +64,7 @@ To run this project locally:
    ```bash
    git clone https://github.com/jay-pros/LasLes-VPN.git
    cd LaslesVPN
-````
+``
 
 2. **Open `index.html`**
    Launch the webpage by opening `project.html` in your browser.
