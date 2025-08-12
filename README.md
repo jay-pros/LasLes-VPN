@@ -28,7 +28,7 @@ LaslesVPN/
 ├── project.html             # Main webpage
 ├── css/
 │   └── project.css          # Core styling & media queries
-├── p_assests/
+├── p_assets/
 │   └─ images/files        # images, pictures
 ├── assets/
 │   └── image            # Icons, mockups, avatars
